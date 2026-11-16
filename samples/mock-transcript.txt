@@ -1,0 +1,6 @@
+Good morning everyone, uh, quick sync on the onboarding project. The new signup flow is working well and
+conversion improved by twelve percent last week. Um, the email verification service is still slow and we had
+an outage on Tuesday that blocked some users. Ahmed needs to add caching to the verification API by Friday.
+Maria will update the onboarding docs and share them with the support team by end of the week.
+If customers complain, they can call 0300 1234567 or write to support at contoso dot com.
+Should we move the demo to next Monday? Let's make sure the staging environment is stable before then.
